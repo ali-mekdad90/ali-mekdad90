@@ -1,61 +1,79 @@
-👋 Hi, I'm Ali Mekdad
-BIM Automation Engineer & .NET Developer  
-Building real, production‑ready tools for the AEC industry.
+## 👋 Hi, I'm Ali Mekdad  
+**BIM Automation Engineer • .NET Developer**  
+Designing and shipping real, production‑ready tools for the AEC industry.
 
-I specialize in creating commercial‑grade add‑ins, automation tools, and applications using the Revit API, Civil 3D API, and modern .NET development.
+---
 
-🚀 What I Do
-BIM Automation for Revit & Civil 3D
+## 🧩 About Me
+I build **commercial‑grade automation tools, add‑ins, and applications** using  
+the **Revit API**, **Civil 3D API**, and **modern .NET development**.  
+My focus is on reliability, clean architecture, and real‑world engineering workflows.
 
-.NET 8 development (desktop, web, APIs)
+---
 
-Custom WPF UI components and reusable control libraries
+## 🚀 Core Expertise
+- BIM Automation (Revit & Civil 3D)
+- .NET 8 development (desktop, web, APIs)
+- WPF custom controls & UI architecture
+- Engineering workflow automation
+- Licensing, deployment & product delivery
 
-Production‑ready engineering tools (licensing, deployment, packaging)
+---
 
-Geometry, data, and workflow automation for AEC teams
+## 🎯 Current Focus
+- Revit API automation tools  
+- Civil 3D 2026 .NET 8 add‑ins  
+- Licensing server for commercial plugins  
+- WPF custom control library  
 
-🔥 Current Focus
-Building Revit API automation tools
+---
 
-Developing Civil 3D 2026 .NET 8 add‑ins
+## 🛠 Tech Stack
 
-Designing a licensing server for commercial plugins
+### Languages & Frameworks
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET_8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![XAML](https://img.shields.io/badge/XAML-0C54C2?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-Expanding my WPF custom control library
+### APIs & Platforms
+![Revit API](https://img.shields.io/badge/Revit_API-0C4B75?style=for-the-badge&logo=autodesk&logoColor=white)
+![Civil 3D API](https://img.shields.io/badge/Civil_3D_API-0C4B75?style=for-the-badge&logo=autodesk&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![WPF](https://img.shields.io/badge/WPF-5C2D91?style=for-the-badge)
 
-🛠 Tech Stack
-Languages  
-C# • .NET 8 • XAML • Python (automation)
+### Tools
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Render](https://img.shields.io/badge/Render.com-46E3B7?style=for-the-badge)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-Frameworks & APIs  
-Revit API • Civil 3D API • WPF • ASP.NET Core • EF Core
+---
 
-Tools  
-Visual Studio • Rider • Git • Render.com • Azure • Dynamo • Revit • Civil 3D
+## 📦 Highlighted Projects  
+*(Repositories coming soon — these will be your flagship tools)*
 
-📦 Highlighted Projects
-(More coming soon — these will be your flagship repos)
+### 🔹 Revit Automation Tools  
+Automation workflows for geometry, data, and model cleanup.
 
-🔹 Revit Automation Tools
-Reusable commands and workflows for model cleanup, geometry processing, and data automation.
-
-🔹 Civil 3D 2026 Add‑ins
+### 🔹 Civil 3D 2026 Add‑ins  
 Modern .NET 8 add‑ins built on Autodesk’s new CoreCLR architecture.
 
-🔹 Licensing Server
+### 🔹 Licensing Server  
 ASP.NET Core Web API with per‑user licensing, machine binding, and remote disable.
 
-🔹 WPF Custom Control Library
+### 🔹 WPF Custom Control Library  
 Professional UI components for engineering tools and desktop applications.
 
-🎯 What I’m Building Next
-A full BIM Automation Framework for Revit & Civil 3D
+---
 
-A polished plugin ecosystem with shared core libraries
+## 📈 GitHub Stats
+<p align="left">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=ali-mekdad90&show_icons=true&theme=dark&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-mekdad90&layout=compact&theme=dark&hide_border=true" />
+</p>
 
-A set of commercial add‑ins ready for sale
+---
 
-📬 Contact
-Email: ali.mekdad90@gmail.com
-GitHub: github.com/ali-mekdad90
+## 📬 Contact  
+**Email:** ali.mekdad90@gmail.com  
