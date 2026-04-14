@@ -67,6 +67,50 @@ Professional UI components for engineering tools and desktop applications.
 
 ---
 
+---
+
+## ⭐ Featured Projects
+
+### 🧱 Revit Automation Toolkit  
+A collection of high‑quality Revit API tools focused on model cleanup, geometry processing, and data automation.  
+Designed with clean architecture, reusable components, and production‑ready patterns.
+
+**Tech:** C#, .NET 8, Revit API, WPF  
+**Status:** In development  
+**Focus:** Reliability, performance, and real‑world BIM workflows
+
+---
+
+### 🛣 Civil 3D 2026 Add‑ins (CoreCLR)  
+Modern Civil 3D automation tools built on Autodesk’s new .NET 8 CoreCLR architecture.  
+Includes alignment tools, network collectors, geometry utilities, and workflow automation.
+
+**Tech:** C#, .NET 8, Civil 3D API  
+**Status:** Early development  
+**Focus:** Clean API design, fast iteration, future‑proof architecture
+
+---
+
+### 🔐 Licensing Server (ASP.NET Core)  
+A lightweight, secure licensing system for commercial engineering tools.  
+Supports per‑user licensing, machine binding, remote disable, and hybrid online/offline modes.
+
+**Tech:** ASP.NET Core, EF Core, Render.com  
+**Status:** Private beta  
+**Focus:** Stability, security, and easy integration with desktop add‑ins
+
+---
+
+### 🎨 WPF Custom Control Library  
+A professional UI component library for engineering applications.  
+Includes modern buttons, lists, themes, animations, and reusable layout patterns.
+
+**Tech:** WPF, XAML, .NET 8  
+**Status:** Active development  
+**Focus:** Clean design, theming, and reusable architecture
+
+---
+
 ## 📈 GitHub Stats
 <p align="left">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=ali-mekdad90&show_icons=true&theme=dark&hide_border=true" />
