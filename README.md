@@ -1,19 +1,17 @@
 # 👋 Hi, I'm Ali Mekdad
 
-**BIM Automation Engineer · .NET Developer · Marine Automation (Developing)**  
-I design and ship production‑ready engineering tools — from BIM automation to marine electrical systems — using modern .NET development, clean architecture, and real‑world engineering workflows.
+**.NET Developer** with high experience in solving real world engineering problems, specialized in **BIM Automation Tools** and expanding lately into **Marine Automating Systems**
 
 ---
 
 ## 🧩 About Me
-I build **commercial‑grade automation tools, add‑ins, and engineering applications** using:
+With more than 10 years of experience combined with Mechatronics Engineering Degree I present High Level Automation Tools, add-ins, and engineering applications using:
 
 - **Revit API** and **Civil 3D API** for BIM automation  
-- **.NET 8**, WPF, and modern UI architecture  
+- **.NET 8**, WPF, MVVM structure
 - **Engineering workflow automation** for AEC teams  
 
-My focus is reliability, maintainability, and delivering tools that solve real engineering problems.  
-I’m also expanding my automation experience into **Marine Electrical Systems**, combining my Mechatronics background with hands‑on teaching experience.
+My focus is reliability, maintainability, and delivering tools that solve real engineering problems.
 
 ---
 
@@ -21,21 +19,8 @@ I’m also expanding my automation experience into **Marine Electrical Systems**
 - **BIM Automation** (Revit & Civil 3D)  
 - **.NET 8 Development** (desktop, web, APIs)  
 - **WPF Custom Controls & UI Architecture**  
-- **Engineering Workflow Automation**  
-- **Licensing, Deployment & Product Delivery**  
-
----
-
-## 🌊 Marine Engineering & Automation (Developing)
-I hold a **Mechatronics Engineering degree** and teach **Marine Electrical Systems** for Second & Chief Engineers.  
-I’m currently building tools and simulators for:
-
-- Marine electrical machines  
-- Navigation devices  
-- Control systems  
-- Training & simulation workflows  
-
-This is the next major branch of my engineering automation career.
+- **Engineering Workflow Automation**
+- **PLC and Microcontrollers Control Systems**
 
 ---
 
@@ -51,20 +36,19 @@ This is the next major branch of my engineering automation career.
 ## 🛠 Tech Stack
 
 ### **Languages & Frameworks**
-- C#, .NET 8, WPF, XAML  
-- ASP.NET Core, EF Core  
+- C#, .NET 8, WPF, XAML, Python
+- ASP.NET Core, EF Core, MySQL
 - TypeScript (Marine Systems Simulator)
 
 ### **APIs & Platforms**
 - Revit API  
 - Civil 3D API  
 - Autodesk CoreCLR (.NET 8)  
-- Render.com (Licensing Server)
 
 ### **Tools**
 - Visual Studio  
 - Git & GitHub  
-- Revit / Civil 3D  
+- Revit / Civil 3D  / Dynamo
 - Engineering documentation tools
 
 ---
@@ -146,7 +130,7 @@ Tech: WPF, XAML, .NET 8
 ---
 
 ## 📬 Contact
-**Email:** ali.mekdad90@gmail.com  
+**Email:** ali.m.mekdad@gmail.com  
 **Location:** Syria · Open to Remote & Relocation  
 **LinkedIn:** linkedin.com/in/alimekdad13
 
