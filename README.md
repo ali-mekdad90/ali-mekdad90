@@ -26,8 +26,7 @@ My focus is reliability, maintainability, and delivering tools that solve real e
 
 ## 🎯 Current Focus
 - Revit API automation tools   
-- Civil 3D 2026 .NET 8 add‑ins (CoreCLR)   
-- Licensing server for commercial plugins   
+- Civil 3D 2026 .NET 8 add‑ins  
 - WPF custom control library   
 - Marine Electrical Systems Simulator (new repo)
 
@@ -38,7 +37,6 @@ My focus is reliability, maintainability, and delivering tools that solve real e
 ### **Languages & Frameworks**
 - C#, .NET 8, WPF, XAML, Python
 - ASP.NET Core, EF Core, MySQL
-- TypeScript (Marine Systems Simulator)
 
 ### **APIs & Platforms**
 - Revit API  
@@ -68,15 +66,6 @@ Status: In development
 Modern .NET 8 add‑ins built on Autodesk’s new CoreCLR architecture.  
 Tech: C#, .NET 8, Civil 3D API  
 Status: Early development  
-
-
----
-
-### 🔹 **Licensing Server (ASP.NET Core)**  
-Secure licensing system for commercial engineering tools.  
-Features: per‑user licensing, machine binding, remote disable.  
-Tech: ASP.NET Core, EF Core, Render.com  
-Status: Private beta  
 
 
 ---
@@ -111,13 +100,6 @@ Tech: C#, .NET 8, Revit API, WPF
 ### 🛣 **Civil 3D 2026 Add‑ins (CoreCLR)**  
 Alignment tools, network collectors, geometry utilities, and workflow automation.  
 Tech: C#, .NET 8, Civil 3D API  
-
-
----
-
-### 🔐 **Licensing Server (ASP.NET Core)**  
-Lightweight, secure licensing system for commercial engineering tools.  
-Tech: ASP.NET Core, EF Core, Render.com  
 
 
 ---
