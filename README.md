@@ -1,118 +1,94 @@
-# 👋 Hi, I'm Ali Mekdad
+# Hi, I'm Ali Mekdad 👋
 
-**.NET Developer** with high experience in solving real world engineering problems, specialized in **BIM Automation Tools** and expanding lately into **Marine Automating Systems**
+**BIM API Developer | C#/.NET Developer | BIM Automation**
 
----
+I develop software and automation tools that solve practical engineering and BIM workflow challenges. My work combines C#/.NET application development with Autodesk APIs, supported by a background in Mechatronics Engineering and control systems.
 
-## 🧩 About Me
-With more than 10 years of experience combined with Mechatronics Engineering Degree I present High Level Automation Tools, add-ins, and engineering applications using:
+I focus on building useful, maintainable applications that reduce repetitive work and improve engineering productivity.
 
-- **Revit API** and **Civil 3D API** for BIM automation  
-- **.NET 8**, WPF, MVVM structure
-- **Engineering workflow automation** for AEC teams  
-
-My focus is reliability, maintainability, and delivering tools that solve real engineering problems.
+- 🔹 **BIM Development:** Autodesk Revit API, Civil 3D API, Navisworks API, and Dynamo
+- 🔹 **Application Development:** C#, .NET, WPF, MVVM, and desktop applications
+- 🔹 **Data & Automation:** SQL Server, Entity Framework, LINQ, and Excel-based workflows
+- 🔹 **Engineering Background:** Mechatronics, PLCs, microcontrollers, and control systems
 
 ---
 
-## 🚀 Core Expertise
-- **BIM Automation** (Revit & Civil 3D)  
-- **.NET 8 Development** (desktop, web, APIs)  
-- **WPF Custom Controls & UI Architecture**  
-- **Engineering Workflow Automation**
-- **PLC and Microcontrollers Control Systems**
+## 🛠️ Technical Skills
+
+### Programming & Application Development
+- C#, .NET / .NET Framework
+- WPF, XAML, MVVM
+- Object-oriented programming and layered application structure
+- Entity Framework, LINQ, SQL Server
+- Python, C++, HTML, CSS, JavaScript
+
+### BIM & Engineering APIs
+- Autodesk Revit API
+- Autodesk Civil 3D API
+- Autodesk Navisworks API
+- Autodesk Dynamo
+- BIM workflow automation and engineering data processing
+
+### Tools
+- Visual Studio
+- Git and GitHub
+- Autodesk Revit and Civil 3D
+- SolidWorks and MATLAB
+
+### Currently Expanding
+- ASP.NET Core fundamentals
+- Web API and REST
+- Asynchronous programming with `async`/`await`
+- Docker and containerization
 
 ---
 
-## 🎯 Current Focus
-- Revit API automation tools   
-- Civil 3D 2026 .NET 8 add‑ins  
-- WPF custom control library   
-- Marine Electrical Systems Simulator (new repo)
+## 🚀 Featured Project
+
+### Revit Wall & Floor Layer Separation
+
+**Repository:** [revit-separate-elements](https://github.com/ali-mekdad90/revit-separate-elements)
+
+A C# and WPF add-in using the Revit API to automate the separation of compound Walls and Floors into individual layers.
+
+**Key capabilities**
+- Separate Wall and Floor layers while preserving their corresponding geometry.
+- Configure names for the generated layers.
+- Transfer eligible parameters from the original elements.
+- Attempt to restore joins between compatible wall layers when the original walls were joined.
+- Relocate wall sweeps and optionally delete original elements.
+- Select operations and a target Level, and review execution results.
+
+**Technology:** C#, WPF, Autodesk Revit API
+
+**Reported impact:** Approximately 75% time savings for the documented Wall and Floor separation workflows.
+
+The repository includes screenshots, a demonstration GIF, and technical documentation. The proprietary add-in source code is not included.
 
 ---
 
-## 🛠 Tech Stack
+## 💻 Software Development Experience
 
-### **Languages & Frameworks**
-- C#, .NET 8, WPF, XAML, Python
-- ASP.NET Core, EF Core, MySQL
+Beyond BIM automation, I have worked on desktop and web applications for business and engineering workflows.
 
-### **APIs & Platforms**
-- Revit API  
-- Civil 3D API  
-- Autodesk CoreCLR (.NET 8)  
-
-### **Tools**
-- Visual Studio  
-- Git & GitHub  
-- Revit / Civil 3D  / Dynamo
-- Engineering documentation tools
+- **Project Management Software:** Developed an application for project, client, and contractor management, reporting, and project-delay estimation using historical data and a neural-network feature.
+- **Examination Management Software:** Developed question-bank and exam-generation functionality, including multiple exam forms, answer shuffling, student results, and question selection based on difficulty and section importance.
+- **Engineering & Control Systems:** Experience with PLCs, Arduino, PIC microcontrollers, and hardware/software integration.
 
 ---
 
-## 📦 Highlighted Projects  
-*(Your flagship tools — based on your current profile content)*
+## 🎓 Education
 
-### 🔹 **Revit Automation Tools**  
-Automation workflows for geometry, data, and model cleanup.  
-Tech: C#, .NET 8, Revit API, WPF  
-Status: In development  
+- **Master's in Computer Science** — Syrian Virtual University *(in progress)*
+- **BSc in Mechatronics Engineering** — Tishreen University, 2014
 
+My engineering background helps me translate complex technical requirements into practical software solutions.
 
 ---
 
-### 🔹 **Civil 3D 2026 Add‑ins (CoreCLR)**  
-Modern .NET 8 add‑ins built on Autodesk’s new CoreCLR architecture.  
-Tech: C#, .NET 8, Civil 3D API  
-Status: Early development  
+## 📫 Connect With Me
 
+- **LinkedIn:** [linkedin.com/in/alimekdad13](https://www.linkedin.com/in/alimekdad13)
+- **Email:** [ali.m.mekdad@gmail.com](mailto:ali.m.mekdad@gmail.com)
 
----
-
-### 🔹 **WPF Custom Control Library**  
-Professional UI components for engineering applications.  
-Tech: WPF, XAML, .NET 8  
-Status: Active development  
-
-
----
-
-### 🔹 **Marine Electrical Systems Simulator**  
-A new project exploring marine electrical machines, control systems, and training workflows.  
-Tech: TypeScript, Engineering Logic  
-Status: Early development  
-
-
----
-
-## ⭐ Featured Projects  
-*(Expanded descriptions based on your current profile)*
-
-### 🧱 **Revit Automation Toolkit**  
-High‑quality tools for model cleanup, geometry processing, and data automation.  
-Designed with clean architecture and reusable components.  
-Tech: C#, .NET 8, Revit API, WPF  
-
-
----
-
-### 🛣 **Civil 3D 2026 Add‑ins (CoreCLR)**  
-Alignment tools, network collectors, geometry utilities, and workflow automation.  
-Tech: C#, .NET 8, Civil 3D API  
-
-
----
-
-### 🎨 **WPF Custom Control Library**  
-Modern buttons, lists, themes, animations, and reusable layout patterns.  
-Tech: WPF, XAML, .NET 8  
-
-
----
-
-## 📬 Contact
-**Email:** ali.m.mekdad@gmail.com  
-**Location:** Syria · Open to Remote & Relocation  
-**LinkedIn:** linkedin.com/in/alimekdad13
-
+**Career interests:** Remote international opportunities in BIM API Development, BIM Automation, and C#/.NET Application Development.
